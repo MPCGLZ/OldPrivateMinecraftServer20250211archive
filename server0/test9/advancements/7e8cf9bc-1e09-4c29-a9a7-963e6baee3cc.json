@@ -1,0 +1,132 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-12-01 17:51:01 +0800"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:bornin_chaos": {
+    "criteria": {
+      "bornin_chaos_0": "2024-12-01 17:51:01 +0800"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2024-12-01 17:51:01 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:savanna": "2024-12-01 17:51:02 +0800"
+    },
+    "done": false
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-01 18:00:18 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2024-12-01 18:01:24 +0800"
+    },
+    "done": true
+  },
+  "petrolsparts:root": {
+    "criteria": {
+      "automatic": "2024-12-01 18:25:07 +0800"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2024-12-01 18:25:07 +0800"
+    },
+    "done": true
+  },
+  "vs_eureka:recipes/balloon_color": {
+    "criteria": {
+      "has_red_balloon": "2024-12-01 18:25:07 +0800",
+      "has_black_balloon": "2024-12-01 18:25:07 +0800",
+      "has_lime_balloon": "2024-12-01 18:25:07 +0800",
+      "has_cyan_balloon": "2024-12-01 18:25:07 +0800",
+      "has_light_blue_balloon": "2024-12-01 18:25:07 +0800",
+      "has_gray_balloon": "2024-12-01 18:25:07 +0800",
+      "has_pink_balloon": "2024-12-01 18:25:07 +0800",
+      "has_light_gray_balloon": "2024-12-01 18:25:07 +0800",
+      "has_white_balloon": "2024-12-01 18:25:07 +0800",
+      "has_blue_balloon": "2024-12-01 18:25:07 +0800",
+      "has_yellow_balloon": "2024-12-01 18:25:07 +0800",
+      "has_purple_balloon": "2024-12-01 18:25:07 +0800",
+      "has_orange_balloon": "2024-12-01 18:25:07 +0800",
+      "has_brown_balloon": "2024-12-01 18:25:07 +0800",
+      "has_green_balloon": "2024-12-01 18:25:07 +0800",
+      "has_magenta_balloon": "2024-12-01 18:25:07 +0800"
+    },
+    "done": true
+  },
+  "vs_eureka:recipes/balloon_leather": {
+    "criteria": {
+      "has_leather": "2024-12-01 18:25:07 +0800"
+    },
+    "done": true
+  },
+  "vs_eureka:recipes/ship_helm": {
+    "criteria": {
+      "has_gold": "2024-12-01 18:25:07 +0800"
+    },
+    "done": true
+  },
+  "vs_eureka:recipes/balloon_paper": {
+    "criteria": {
+      "has_paper": "2024-12-01 18:25:07 +0800"
+    },
+    "done": true
+  },
+  "vs_eureka:recipes/balloon_membrane": {
+    "criteria": {
+      "has_membrane": "2024-12-01 18:25:07 +0800"
+    },
+    "done": true
+  },
+  "create_connected:root": {
+    "criteria": {
+      "0": "2024-12-01 18:25:07 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_dried_kelp": "2024-12-01 18:25:07 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_sword": "2024-12-01 19:04:23 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_sword": "2024-12-01 19:04:23 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_wood_slab": "2024-12-01 19:36:18 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2024-12-01 19:36:18 +0800"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
